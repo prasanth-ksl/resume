@@ -55,7 +55,7 @@ th {
     <td>College(BTech-ECE)</td>
     <td>VIT Vellore</td>
     <td>2023</td>
-    <td>8.00</td>
+    <td>8.32</td>
   </tr>
 
 </table>
